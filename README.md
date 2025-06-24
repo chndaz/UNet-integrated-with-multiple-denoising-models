@@ -1,2 +1,4 @@
 # UNet-integrated-with-multiple-denoising-models
 This is a repository for chip image segmentation.
+## Details   
+The file Clip_IC_image_256.py in the dataset directory is primarily responsible for cropping 1024×1024 IC images into 256×256 patches. This preprocessing step facilitates subsequent data augmentation operations. The script dataset_split.py is used to divide the images and their corresponding labels in the dataset into training, testing, and validation subsets. The purpose of remove_black.py is to eliminate IC images that share identical label masks, thereby removing redundant samples from the dataset. Lastly, remove_no_label_img.py is designed to discard IC images that do not have corresponding annotation labels, ensuring consistency between image and label pairs in the dataset.
