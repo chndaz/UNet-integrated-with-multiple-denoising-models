@@ -28,3 +28,17 @@ Download dataset, i.e.https://doi.org/10.17617/3.HY5SYN
 [3] Wilson, Ronald, et al. "Refics: Assimilating data-driven paradigms into reverse engineering and hardware assurance on integrated circuits." IEEE Access 9 (2021): 131955-131976,DOI: 10.1109/ACCESS.2021.3114360
 
 [4] Cheng D, Shi Y, Lin T, et al. Hybrid ${K} $-means clustering and support vector machine method for via and metal line detections in delayered ic images[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2018, 65(12): 1849-1853.DOI: 10.1109/TCSII.2018.2827044
+## Citation
+
+If you find this repo helpful, please cite our paper. 
+
+```
+@article{cheng2025segmentation,
+  title={Segmentation of IC Images in Integrated Circuit Reverse Engineering Using EfficientNet Encoder Based on U-Net++ Architecture},
+  author={Cheng, Hongnan and Yu, Chaozhi and Zhang, Chenguang},
+  journal={International Journal of Circuit Theory and Applications},
+  year={2025},
+  publisher={Wiley Online Library}
+}
+```
+
