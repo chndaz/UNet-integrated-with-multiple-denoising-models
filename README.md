@@ -22,5 +22,9 @@ The file Clip_IC_image_256.py in the dataset directory is primarily responsible 
 Download dataset, i.e.https://doi.org/10.17617/3.HY5SYN
 ## References
 [1] Trindade, Bruno Machado, et al. "Segmentation of integrated circuit layouts from scan electron microscopy images." 2018 IEEE Canadian Conference on Electrical & Computer Engineering (CCECE). IEEE, 2018,DOI: 10.1109/CCECE.2018.8447878
+
 [2] Rothaug, Nils, et al. "Towards Unsupervised SEM Image Segmentation for IC Layout Extraction." Proceedings of the 2023 Workshop on Attacks and Solutions in Hardware Security. 2023,https://doi.org/10.1145/3605769.3624000
+
 [3] Wilson, Ronald, et al. "Refics: Assimilating data-driven paradigms into reverse engineering and hardware assurance on integrated circuits." IEEE Access 9 (2021): 131955-131976,DOI: 10.1109/ACCESS.2021.3114360
+
+[4] Cheng D, Shi Y, Lin T, et al. Hybrid ${K} $-means clustering and support vector machine method for via and metal line detections in delayered ic images[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2018, 65(12): 1849-1853.DOI: 10.1109/TCSII.2018.2827044
