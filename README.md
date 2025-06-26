@@ -11,7 +11,7 @@ Cheng H, Yu C, Zhang C. Segmentation of IC Images in Integrated Circuit Reverse 
 ## Folder
 Folder consists of 
 
-1.Dataset folder contains batch operations performed on the images within the file.
+1.Dataset folder contains some examples of IC images.
 
 2.Model folder contains the existing model.
 
